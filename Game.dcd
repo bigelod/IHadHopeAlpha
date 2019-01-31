@@ -1,0 +1,73 @@
+[Main]
+Players=1
+LastPlayer=1
+IntroScreens=2
+TitleMP3=Joergen Theodorsen - Precipitation.mp3
+MaxChannels=32
+MaxZombies=50
+
+[Player1]
+Name=Alex
+Character=AlexWinter
+Handedness=Left
+CustomZombies=8
+Controller=0
+Vibration=1
+ScreenShake=1
+Difficulty=1
+KidsMode=0
+ShowOutlines=1
+FullScreen=0
+FloatingText=1
+RoundStartText=1
+SoundVol=100
+MusVol=50
+MusicPlayMode=1
+TotalKills=0
+TotalDeaths=0
+SlowMo=0
+Achievement1=0
+Achievement2=0
+Achievement3=0
+Achievement4=0
+Achievement5=0
+Achievement6=0
+Achievement7=0
+Achievement8=0
+Achievement9=0
+Achievement10=0
+Achievement11=0
+Achievement12=0
+Achievement13=0
+Achievement14=0
+Achievement15=0
+Achievement16=0
+Achievement17=0
+Achievement18=0
+Achievement19=0
+Achievement20=1
+Achievement21=0
+Achievement22=0
+Achievement23=0
+Achievement24=0
+Achievement25=0
+Achievement26=0
+Achievement27=0
+Achievement28=0
+
+[Maps]
+NumMaps=1
+Map1=Custom1.iam
+
+[SongList]
+NumSongs=10
+Song1=Velocity Stace - Nothings Without.mp3
+Song2=Raph Gaudette - Shopping Cart To Hell.mp3
+Song3=Entities - Throne Of Amorphous.mp3
+Song4=Organic Shadows - Federation Of Awesome.mp3
+Song5=7 USA - The Freak Likes It.mp3
+Song6=Aesthetic Miasma - Obscura Scene.mp3
+Song7=7 USA - Polite Kill.mp3
+Song8=7 USA - Sirens.mp3
+Song9=7 USA - Death Flower.mp3
+Song10=7 USA - Madness.mp3

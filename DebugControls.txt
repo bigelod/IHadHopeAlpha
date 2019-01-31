@@ -1,0 +1,21 @@
+Debug Controls:
+-------------------------------------------------------------------------------------------------
+Tab, then Up Arrow, then Down Arrow to activate debug mode
+
+Keyboard/mouse controls:
+--------------------------------------
+Mousewheel - Switch weapon
+Up/Down Arrow - Switch weapon
+Left Arrow - More lives
+Right Arrow - More grenades
+B - Spawn barricade
+V - Toggle zombie Line Of Sight view
+H - Trigger a test achievement
+U - Spawn building material
+I - Spawn flame zombie
+O - Spawn zombie
+P - Add 100 to points
+J - Spawn Flare
+K - Suicide
+L - Spawn random powerup
+N - Refill stamina

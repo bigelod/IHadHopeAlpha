@@ -1,0 +1,118 @@
+[Details]
+Name=Tutorial ;Level name
+Author=Jayjay ;Level author
+Description=Learn the basics of survival ;Level description
+Music=Random ;Music file for level
+Highscores=1 ;How many high scores are recorded for the map
+Width=2000 ;Width of map
+Height=2000 ;Height of map
+FloorObjs=1 ;Number of backgrounds
+RoofObjs=1 ;Number of roofs
+WallObjs=1 ;Number of walls
+FlameObjs=1 ;Number of flame objects
+LightObjs=1 ;Number of lights
+ZSpawnObjs=1 ;Number of zombie spawns
+BSpawnObjs=1 ;Number of barricades
+PathObjs=1 ;Number of path objects
+VendMachines=1 ;Number of vending machines
+MapObjs=1 ;Number of map objects
+ShopObjs=1 ;Number of weapon shops
+Workbenches=1 ;Number of workbenches
+PlayerSpawnX=0 ;Player spawn point X
+PlayerSpawnY=0 ;Player spawn point Y
+AmbientLight=70 ;How dark the map is (eg: 0 = daylight, 100 = pitch black)
+
+[Highscore]
+Player=Jayjay ;High score player name
+Score=1000 ;High score
+Kills=30 ;Kills to get score
+Wave=20 ;Wave number
+
+[FloorObj1]
+X=0 ;X of object
+Y=0 ;Y of object
+Width=2000 ;Width of object
+Height=2000 ;Height of object
+Image=Default ;Image name or "Default" for ingame gfx
+
+[RoofObj1]
+X=0 ;X of object
+Y=0 ;Y of object
+Width=100 ;Width of object
+Height=100 ;Height of object
+Image=Default ;Image name or "Default" for ingame gfx
+Transparency=80 ;Transparency of roof
+
+[WallObj1]
+X=0 ;X of object
+Y=0 ;Y of object
+Width=50 ;Width of object
+Height=200 ;Height of object
+Image=Default ;Image name or "Default" for ingame gfx
+
+[LightObj1]
+X=375 ;X of light
+Y=283 ;Y of light
+Width=546 ;Width of light
+Height=546 ;Height of light
+Angle=0 ;Angle of light
+Strobe=0 ;Boolean -whether or not the light flashes
+StrobeDelay=3 ;Slowness of strobe
+Color=Blue ;Colour or light (can be White/Blue/Orange/Green/Purple/Yellow)
+
+[ZombieSpawn1]
+X=0 ;X of object
+Y=0 ;Y of object
+
+[BarricadeSpawn1]
+X=0 ;X of object
+Y=0 ;Y of object
+Angle=0 ;Angle of object
+Type=1 ;Type of barricade (graphic)
+Level=1 ;Strength of barricade
+Moveable=1 ;If the barricade can be moved
+
+[PathObj1]
+X=146 ;X of object
+Y=397 ;Y of object
+Width=35 ;Width of object
+Height=35 ;Height of object
+Angle=-55 ;Angle of object
+Randomness=0 ;Angle variance when something follows it
+
+[MapObj1]
+X=0 ;X of object
+Y=0 ;Y of object
+Angle=0 ;Angle of object
+Height=0 ;Height of object
+Width=0 ;Width of object
+IsSolid=0 ;Object is solid
+BulletsHit=0 ;Object stops bullets/gets bullet holes
+Image=Default ;Image file or "Default" for system gfx
+
+[FlameObj1]
+X=600 ;The X of the flame
+Y=450 ;The Y of the flame
+Age=-10 ;The life of the flame (<= to -10 lasts forever)
+
+[WepShop1]
+X=0 ;X of object
+Y=0 ;Y of object
+Weapon=1 ;Weapon sold at shop
+
+[Workbench1]
+X=0 ;X of object
+Y=0 ;Y of object
+Angle=0 ;Angle of object
+
+[VendMachine1]
+X=0 ;X of object
+Y=0 ;Y of object
+Angle=0 ;Angle of object
+Items=6 ;Number of items for sale
+Item1=1 ;Item type
+Item2=2 ;Item type
+Item3=3 ;Item type
+Item4=4 ;Item type
+Item5=5 ;Item type
+Item6=6 ;Item type

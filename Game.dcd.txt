@@ -1,0 +1,37 @@
+[Main]
+Players=1 ;How many player accounts there are
+LastPlayer=1 ;The last player to play
+IntroScreens=1 ;The number of intro screens before the game starts
+TitleMP3=Title.mp3 ;The song to play at the title screen (must be MP3)
+MaxChannels=24 ;The maximum number of sounds to play at once
+MaxZombies=50 ;The maximum number of zombies to have at once
+
+[Player1]
+Name=Alex ;The name of the player
+CustomZombies=0 ;If the player wishes to use custom zombies, number = how many files
+Character=AlexWinter ;The skin the player will use
+Handedness=Left ;The handedness of the player character
+Controller=0 ;Do they use keyboard or controller?
+Vibration=1 ;Do they want 360 controller vibration?
+ScreenShake=1 ;Do they want the screen to shake?
+Difficulty=1 ;The difficulty chosen
+KidsMode=0 ;Whether or not to show blood
+ShowOutlines=1 ;Whether or not to show outlines around useful objects
+FullScreen=0 ;Whether or not to play in FullScreen
+FloatingText=1 ;Whether or not to show floating messages above the player
+RoundStartText=1 ;Whether or not to show the "start of round X" text
+SoundVol=100 ;Max sound volume
+MusVol=100 ;Max music volume
+MusicPlayMode=0 ;How to play music, 0 = game decides, 1 = random song from custom music list
+TotalKills=0 ;Career kills
+TotalDeaths=0 ;Career deaths
+SlowMo=0 ;Unlocked slowmotion
+Achievement1=0 ;Unlocked achievement 1
+
+[Maps]
+NumMaps=1 ;How many custom maps there are
+Map1=Map1.iam ;Filename of map1
+
+[SongList]
+NumSongs=1 ;How many songs there are
+Song1=Lol.mp3 ;The file name of the song

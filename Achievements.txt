@@ -1,0 +1,28 @@
+-Happy birthday! (5): Type "tom" at the title screen [1] *SECRET*
+-Material Defender (30): Collect 50 materials in one game [2]
+-Spreadable (5): Buy your first shotgun [3]
+-Spray and pray (5): Buy your first machine gun [4]
+-Toasty (5): Buy your first flamethrower [5]
+-Splashing cash (5): Buy your first rocket launcher [6]
+-Redundancy (5): Buy your first set of double rocket launchers [7]
+-One in the barrel (5): Get the zombie revolver powerup [8]
+-Pinball, anyone? (5): Get the pinball launcher powerup [9]
+-All your base (5): Build your first barricade [10]
+-Do it yourself (5): Repair a barricade [11]
+-One in the wall (5): Miss with the zombie revolver powerup [12]
+-Still in warrenty (5): Get the refurbishment powerup. [13]
+-You move like them (15): Unlock slow motion by getting a lifetime total of 800 kills. [14]
+-A good start (15): Get a lifetime total of 200 kills [15]
+-Shooter? I hardly know her! (15): Get a lifetime total of 400 kills [16]
+-Cool story bro (10): Complete the tutorial [17]
+-What's the shoot button? (5): Die before getting one kill in a single game [18] *SECRET*
+-I accidentally my whole life (5): Die 5 times in a single game [19] *SECRET*
+-Pushy people (5): Find a way out of the map [20] *SECRET*
+-Free hugs (5): Get a lifetime total of 25 deaths [21] *SECRET*
+-You dun goof'd (5): Get a lifetime total of 50 deaths [22] *SECRET*
+-You're probably cheating (15): Get to wave 100 [23]
+-Look at you, hacker (0): Give yourself this achievement [24] *SECRET*
+-This might be a bug (15): Get 999 building materials [25] *SECRET*
+-One for the road (5): Get the health powerup [26]
+-Double take (5): Get the double pistol powerup [27]
+-A bajillion points! (30): Get the highest score possible [28] *SECRET*
